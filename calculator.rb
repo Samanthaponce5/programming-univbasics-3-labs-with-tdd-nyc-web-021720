@@ -1,1 +1,2 @@
-# Add your variables here
+# Add your variables her
+first_number = 5
